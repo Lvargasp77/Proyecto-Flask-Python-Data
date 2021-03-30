@@ -131,6 +131,7 @@ def list_addAll():
         )
         db.session.add(vehicle1)
 
+
         db.session.commit()
 
 
